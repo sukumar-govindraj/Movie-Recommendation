@@ -8,9 +8,8 @@ The Movie Recommender System uses collaborative filtering to recommend movies ba
 - Display the top-rated movies.
 - Display the movies with the most ratings.
 - Find movies similar to a specified movie based on user ratings.
-- Dataset
+## Dataset
     The dataset used in this project consists of:
-
     u.data: A tab-separated file containing user ID, item ID (movie), rating, and timestamp.
     Movie_Id_Titles.txt: A file containing movie IDs and corresponding titles.
     These files are required for the recommender system to function correctly.
@@ -20,6 +19,11 @@ The Movie Recommender System uses collaborative filtering to recommend movies ba
 - **Modular Design**: The project is designed using OOP principles, encapsulating functionalities into classes and methods.
 - **Data Visualization**: The system includes data visualization features to analyze the distribution of ratings.
 - **Similarity Search**: It allows you to find movies similar to a given movie based on user ratings.
+
+## EDA 
+![output (1)](https://github.com/user-attachments/assets/f1ff076c-6136-4fda-be1e-95f4e5cdb27b)
+![output (2)](https://github.com/user-attachments/assets/d4807730-8801-493a-aa19-1e46d974e88e)
+![output](https://github.com/user-attachments/assets/1898ca6b-d8c4-4fc6-8ea5-e355356afd3b)
 
 ## Installation
 
